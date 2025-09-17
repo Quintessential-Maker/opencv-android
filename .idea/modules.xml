@@ -4,7 +4,13 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/opencv-android.iml" filepath="$PROJECT_DIR$/.idea/modules/opencv-android.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/opencv-android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/opencv-android.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openCVLibrary3413/opencv-android.openCVLibrary3413.iml" filepath="$PROJECT_DIR$/.idea/modules/openCVLibrary3413/opencv-android.openCVLibrary3413.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/opencv-android.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/opencv-android.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/opencv-android.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/opencv-android.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/opencv-android.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/opencv-android.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openCVLibrary412/opencv-android.openCVLibrary412.iml" filepath="$PROJECT_DIR$/.idea/modules/openCVLibrary412/opencv-android.openCVLibrary412.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openCVLibrary412/opencv-android.openCVLibrary412.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/openCVLibrary412/opencv-android.openCVLibrary412.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openCVLibrary412/opencv-android.openCVLibrary412.main.iml" filepath="$PROJECT_DIR$/.idea/modules/openCVLibrary412/opencv-android.openCVLibrary412.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openCVLibrary412/opencv-android.openCVLibrary412.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/openCVLibrary412/opencv-android.openCVLibrary412.unitTest.iml" />
     </modules>
   </component>
 </project>
